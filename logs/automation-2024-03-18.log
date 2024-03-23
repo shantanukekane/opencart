@@ -1,0 +1,48 @@
+20:57:34.063 [main] INFO  testcases.TC__001_AccountRegistrationTest - **** Ending of TC_001_AccountRegistrationTest *****
+21:09:22.906 [main] INFO  testcases.TC__001_AccountRegistrationTest - **** Starting of TC_001_AccountRegistrationTest *****
+21:09:23.021 [main] ERROR testcases.TC__001_AccountRegistrationTest - Test failed
+21:10:40.027 [main] INFO  testcases.TC__001_AccountRegistrationTest - **** Starting of TC_001_AccountRegistrationTest *****
+21:10:40.090 [main] ERROR testcases.TC__001_AccountRegistrationTest - Test failed
+21:12:43.178 [main] INFO  testcases.TC__001_AccountRegistrationTest - **** Starting of TC_001_AccountRegistrationTest *****
+21:12:43.876 [main] INFO  testcases.TC__001_AccountRegistrationTest - click on Myaccount
+21:12:45.532 [main] INFO  testcases.TC__001_AccountRegistrationTest - click on registration
+21:12:45.536 [main] INFO  testcases.TC__001_AccountRegistrationTest - Entering customer Information
+21:12:48.750 [main] INFO  testcases.TC__001_AccountRegistrationTest - Click on continue Button
+21:12:52.396 [main] INFO  testcases.TC__001_AccountRegistrationTest - Validation the confirmation Message
+21:12:52.396 [main] INFO  testcases.TC__001_AccountRegistrationTest - Test passed
+21:12:52.412 [main] INFO  testcases.TC__001_AccountRegistrationTest - **** Ending of TC_001_AccountRegistrationTest *****
+21:16:30.777 [main] INFO  testcases.TC__001_AccountRegistrationTest - **** Starting of TC_001_AccountRegistrationTest *****
+21:16:30.853 [main] ERROR testcases.TC__001_AccountRegistrationTest - Test failed
+21:21:39.223 [main] INFO  testcases.TC__001_AccountRegistrationTest - **** Starting of TC_001_AccountRegistrationTest *****
+21:21:39.914 [main] INFO  testcases.TC__001_AccountRegistrationTest - click on Myaccount
+21:21:41.758 [main] INFO  testcases.TC__001_AccountRegistrationTest - click on registration
+21:21:41.930 [main] INFO  testcases.TC__001_AccountRegistrationTest - Entering customer Information
+21:21:43.381 [main] INFO  testcases.TC__001_AccountRegistrationTest - Click on continue Button
+21:21:45.542 [main] INFO  testcases.TC__001_AccountRegistrationTest - Validation the confirmation Message
+21:21:45.543 [main] INFO  testcases.TC__001_AccountRegistrationTest - Test passed
+21:21:45.552 [main] INFO  testcases.TC__001_AccountRegistrationTest - **** Ending of TC_001_AccountRegistrationTest *****
+21:22:17.440 [main] INFO  testcases.TC__001_AccountRegistrationTest - **** Starting of TC_001_AccountRegistrationTest *****
+21:22:18.265 [main] INFO  testcases.TC__001_AccountRegistrationTest - click on Myaccount
+21:22:20.318 [main] INFO  testcases.TC__001_AccountRegistrationTest - click on registration
+21:22:20.324 [main] INFO  testcases.TC__001_AccountRegistrationTest - Entering customer Information
+21:22:22.478 [main] INFO  testcases.TC__001_AccountRegistrationTest - Click on continue Button
+21:22:24.748 [main] INFO  testcases.TC__001_AccountRegistrationTest - Validation the confirmation Message
+21:22:24.748 [main] INFO  testcases.TC__001_AccountRegistrationTest - Test passed
+21:22:24.748 [main] INFO  testcases.TC__001_AccountRegistrationTest - **** Ending of TC_001_AccountRegistrationTest *****
+21:24:08.045 [TestNG-tests-2] INFO  testcases.TC__001_AccountRegistrationTest - **** Starting of TC_001_AccountRegistrationTest *****
+21:24:08.390 [TestNG-tests-1] INFO  testcases.TC__001_AccountRegistrationTest - **** Starting of TC_001_AccountRegistrationTest *****
+21:24:09.373 [TestNG-tests-2] INFO  testcases.TC__001_AccountRegistrationTest - click on Myaccount
+21:24:09.398 [TestNG-tests-1] INFO  testcases.TC__001_AccountRegistrationTest - click on Myaccount
+21:24:12.633 [TestNG-tests-2] INFO  testcases.TC__001_AccountRegistrationTest - click on registration
+21:24:12.636 [TestNG-tests-1] INFO  testcases.TC__001_AccountRegistrationTest - click on registration
+21:24:13.299 [TestNG-tests-2] INFO  testcases.TC__001_AccountRegistrationTest - Entering customer Information
+21:24:13.305 [TestNG-tests-1] INFO  testcases.TC__001_AccountRegistrationTest - Entering customer Information
+21:24:23.889 [TestNG-tests-2] INFO  testcases.TC__001_AccountRegistrationTest - Click on continue Button
+21:24:23.889 [TestNG-tests-1] INFO  testcases.TC__001_AccountRegistrationTest - Click on continue Button
+21:24:28.926 [TestNG-tests-2] INFO  testcases.TC__001_AccountRegistrationTest - Validation the confirmation Message
+21:24:28.926 [TestNG-tests-2] INFO  testcases.TC__001_AccountRegistrationTest - Test passed
+21:24:28.926 [TestNG-tests-1] INFO  testcases.TC__001_AccountRegistrationTest - Validation the confirmation Message
+21:24:28.926 [TestNG-tests-1] INFO  testcases.TC__001_AccountRegistrationTest - Test passed
+21:24:28.945 [TestNG-tests-2] INFO  testcases.TC__001_AccountRegistrationTest - **** Ending of TC_001_AccountRegistrationTest *****
+21:24:28.952 [TestNG-tests-1] INFO  testcases.TC__001_AccountRegistrationTest - **** Ending of TC_001_AccountRegistrationTest *****
+22:49:38.436 [main] INFO  testcases.TC__001_AccountRegistrationTest - **** Starting of TC_001_AccountRegistrationTest *****
