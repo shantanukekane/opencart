@@ -22,8 +22,8 @@
 	  
      <classes>
      <class name="testcases.TC__001_AccountRegistrationTest"/>
-     <class name="testcases.TC_002_LoginTest"/> 
-     <!-- <class name="testcases.TC_003_LoginDDT"/>
+     <!--<class name="testcases.TC_002_LoginTest"/> 
+     <class name="testcases.TC_003_LoginDDT"/>
       <class name="testcases.TC_004_SearchProductTest"/>
       <class name="testcases.TC_005_AddToCardPageTest"/>
       <class name="testcases.TC_006_EndToEndTest"/> -->
